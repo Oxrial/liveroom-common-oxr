@@ -1,3 +1,3 @@
 interface User {
-  name: string
+    name: string
 }
